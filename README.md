@@ -2,7 +2,7 @@
 
 API Rest do projeto FeedFront
 
-## Chellange 2024 - Turma Z (Vissa - Turma Y)
+## Challenge 2024 - Turma Z (Vissa - Turma Y)
 
 ## Integrantes do Grupo:
 - Paolla Felix - Desenvolvedor Back-end (Responsável pela implementação das entidades e repositórios)
