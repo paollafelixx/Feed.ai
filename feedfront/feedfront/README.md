@@ -43,7 +43,7 @@ mvn spring-boot:run
 
 ## Imagem dos Diagramas 
 
-![Diagrama de Classes de Entidade](imagens/diagrama_classes.png)
+![Diagrama de Classes de Entidade](feedfront\feedfront\src\main\java\br\com\fiap\feedfront\image\Class Diagram0.jpg)
 ![Diagrama de Entidades e Relacionamento (DER)](imagens/diagrama_der.png)
 
 
