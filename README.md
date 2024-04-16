@@ -1,8 +1,8 @@
-# Projeto FeedFront - Sistema de Gestão Proativa de Feedback
+# Projeto Feed.ai - Sistema de Gestão Proativa de Feedback
 
-API Rest do projeto FeedFront
+API Rest do projeto Feed.ai
 
-## Challenge 2024 - Turma Z (Vissa - Turma Y)
+## Challenge 2024 - Turma Z (Vicenzo - Turma Y)
 
 ## Integrantes do Grupo:
 - Paolla Felix - Desenvolvedor Back-end (Responsável pela implementação das entidades e repositórios)
