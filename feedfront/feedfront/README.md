@@ -6,8 +6,8 @@ API Rest do projeto Feed.ai
 
 ## Integrantes do Grupo:
 - Paolla Felix - Desenvolvedor Back-end (Responsável pela implementação das entidades e repositórios)
-- Matheus Grando e Blossom Moreira - Desenvolvedora Front-end (Responsável pela implementação dos controladores REST)
-- Lais Mendes e Vicenzo Guardabassi - Analista de Qualidade (Responsável pelos testes e pela gestão de configuração)
+- Matheus Grando e Blossom Moreira - Desenvolvedores Front-end (Responsáveis pela implementação dos controladores REST)
+- Lais Mendes e Vicenzo Guardabassi - Analistas de Qualidade (Responsáveis pelos testes e pela gestão de configuração)
 
 
 ## Como rodar a aplicação:
