@@ -49,7 +49,7 @@ mvn spring-boot:run
 
 ## Vídeo Apresentação
 
-[Vídeo de apresentação do projeto](LINK_VÍDEO)
+[Vídeo de apresentação do projeto](https://www.youtube.com/watch?v=H3uB75QxXKw)
 
 
 ## Requisitos
