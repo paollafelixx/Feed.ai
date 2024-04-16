@@ -1,8 +1,8 @@
-# Projeto FeedFront - Sistema de Gestão Proativa de Feedback
+# Projeto Feed.ai - Sistema de Gestão Proativa de Feedback
 
-API Rest do projeto FeedFront
+API Rest do projeto Feed.ai
 
-## Chellange 2024 - Turma Z (Vissa - Turma Y)
+## Challenge 2024 - Turma Z (Vicenzo - Turma Y)
 
 ## Integrantes do Grupo:
 - Paolla Felix - Desenvolvedor Back-end (Responsável pela implementação das entidades e repositórios)
@@ -43,13 +43,13 @@ mvn spring-boot:run
 
 ## Imagem dos Diagramas 
 
-![Diagrama de Classes de Entidade](feedfront\feedfront\src\main\java\br\com\fiap\feedfront\image\Class Diagram0.jpg)
+![Diagrama de Classes de Entidade](https://github.com/paollafelixx/Feed.ai/blob/main/feedfront/feedfront/src/main/java/br/com/fiap/feedfront/image/Class%20Diagram0.jpg)
 ![Diagrama de Entidades e Relacionamento (DER)](imagens/diagrama_der.png)
 
 
 ## Vídeo Apresentação
 
-[Vídeo de apresentação do projeto](LINK_VÍDEO)
+[Vídeo de apresentação do projeto](https://www.youtube.com/watch?v=H3uB75QxXKw)
 
 
 ## Requisitos
